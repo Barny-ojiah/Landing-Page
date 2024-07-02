@@ -2,7 +2,7 @@ footer{
     background-color: darkslategrey
     ;
 }
-input{
+input{  
     background-color:#4D5061;
 }
 
@@ -10,7 +10,7 @@ header{
     background-color:#5C80BC;
 }
 .jumbotrontext-center{
-    background-image: url(images300.jpg);
+    background-image:url(res/LOAFERS\ VID.mp4);
     background-repeat: no-repeat;
     background-size:cover;
     height: 60vh;
